@@ -15,5 +15,5 @@ The students will be evaluated with oral evaluations based on a programming proj
 
 # Resources
 
-Joe Pitt-Francis and Jonathan Whiteley, Guide to Scientific Computing in C++, Springer 2012 (https://link.springer.com/book/10.1007/978-1-4471-2736-9)
+Joe Pitt-Francis and Jonathan Whiteley, Guide to Scientific Computing in C++, Springer 2012 (https://link.springer.com/book/10.1007/978-3-319-73132-2)
 
