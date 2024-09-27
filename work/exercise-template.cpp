@@ -1,8 +1,6 @@
 /*
  * exercise-template.cpp <--- The name of the source file goes here
  *
- * <--- Description of the program goes here.
- *
  * Created on: September 02, 2015 <--- Fill in the date here
  * 	   Author: Davide Forti <davide.forti@epfl.ch> <--- Fill in your name (and e-mail) here
  */
